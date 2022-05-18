@@ -1,5 +1,8 @@
 ### 안녕하세요 ! DEv-OPS의 꿈을 가진 개발자 양정헌입니다. 👋
 
+## RESUME and PortFolio in NOTION
+### URL
+#### https://scientific-feet-fb3.notion.site/RESUME-908c41f8daa744af87a1d6c557a81c8f
 <!--
 **chaos663/chaos663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
