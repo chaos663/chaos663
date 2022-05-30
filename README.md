@@ -2,7 +2,7 @@
 
 ## RESUME and PortFolio in NOTION
 ### URL
-#### https://scientific-feet-fb3.notion.site/RESUME-908c41f8daa744af87a1d6c557a81c8f
+#### https://scientific-feet-fb3.notion.site/eaff6180a14042d595a5c29ef49b1338
 <!--
 **chaos663/chaos663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
